@@ -2,7 +2,9 @@
 
 **handle with care**
 
-Its really all deleted
+Its really all deleted.
+
+Use at your own risk!
 
 ## Usage
 
